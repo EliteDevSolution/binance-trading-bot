@@ -147,32 +147,8 @@ Thanks to a group of talented developers, there is now a [Telegram bot for remot
 
 ## Support the Project
 
-<a href="https://www.buymeacoffee.com/edeng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://ko-fi.com/elitedevsolution" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Join the Chat
 
--   **Discord**: [Invite Link](https://discord.gg/m4TNaxreCN)
-
-## FAQ
-
-A list of answers to what seem to be the most frequently asked questions can be found in our discord server, in the corresponding channel.
-
-<p align="center">
-  <img src = "https://usercontent2.hubstatic.com/6061829.jpg">
-</p>
-
-## Disclaimer
-
-This project is for informational purposes only. You should not construe any
-such information or other material as legal, tax, investment, financial, or
-other advice. Nothing contained here constitutes a solicitation, recommendation,
-endorsement, or offer by me or any third party service provider to buy or sell
-any securities or other financial instruments in this or in any other
-jurisdiction in which such solicitation or offer would be unlawful under the
-securities laws of such jurisdiction.
-
-If you plan to use real money, USE AT YOUR OWN RISK.
-
-Under no circumstances will I be held responsible or liable in any way for any
-claims, damages, losses, expenses, costs, or liabilities whatsoever, including,
-without limitation, any direct or indirect damages for loss of profits.
+-   **Telegram**: [Invite Link](https://t.me/SuperCoder707)
